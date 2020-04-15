@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LiftUP</string>
+    <string-array name="fizical_activity">
+        <item>No Activity</item>
+        <item>1, 2 times per week</item>
+        <item>3 to 5 times per week</item>
+        <item>Every day</item>
+        <item>Handful of times per month</item>
+    </string-array>
+</resources>
